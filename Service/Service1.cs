@@ -14,6 +14,7 @@ namespace Service
         {
             return string.Format("You entered: {0}", value);
             // clone
+            //branch
         }
 
         public CompositeType GetDataUsingDataContract(CompositeType composite)
